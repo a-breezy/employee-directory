@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/a-breezy/employee-directory/issues"
   },
-  "homepage": "https://github.com/a-breezy/employee-directory#readme"
+  "homepage": "https://github.com/a-breezy/employee-directory#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^9.1.4",
+    "mysql2": "^2.3.3"
+  }
 }
